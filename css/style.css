@@ -7,15 +7,15 @@ ul > li {
 }
 
 .col-md-3 {
-  background-color: #ccc;
+  background-color: #fff;
   border: 1px solid #fff;
   padding: 10px;
 }
 
 .number h1{
-  background-color: #2C3E50;
+  background-color: #F2784B;
   color: #fff;
-  border: solid #2C3E50 1px;
+  border: solid #F2784B 1px;
   width: 45px;
   text-align: center;
   margin: 0 auto;
