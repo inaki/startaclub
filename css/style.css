@@ -1,8 +1,8 @@
-ul{
+#steps ul{
   list-style-type: none;
 }
 
-ul > li {
+#steps ul > li {
   margin-left: -25px;
 }
 
