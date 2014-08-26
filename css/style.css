@@ -23,12 +23,13 @@
 #steps ul > li {
   margin-left: -25px;
   font-family: Hoefler Text;
+  font-size: 1.1em;
 }
 
 #steps h5 {
   font-family: Kannada Sangam MN;
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 1.2em;
   color: #585858;
 }
 
