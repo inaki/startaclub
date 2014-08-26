@@ -2,6 +2,20 @@
   font-family: Hiragino Kaku Gothic ProN;
 }
 
+#header {
+  margin-top: 50px;
+  background-color: #F5F5F5;
+}
+
+#header .page-header h1 {
+  font-family: 'Bitter', serif;
+}
+
+.lead {
+  font-family: HoeflerText-Regular;
+  color: #585858;
+}
+
 #steps ul{
   list-style-type: none;
 }
