@@ -1,3 +1,4 @@
+
 #steps ul{
   list-style-type: none;
 }
@@ -16,7 +17,9 @@
   background-color: #F2784B;
   color: #fff;
   border: solid #F2784B 1px;
-  width: 45px;
+  width: 65px;
+  height: 65px;
+  padding-top: 10px;
   text-align: center;
   margin: 0 auto;
   border-radius: 100%;
