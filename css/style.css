@@ -50,5 +50,7 @@
   margin: 0 auto;
   border-radius: 100%;
   margin-bottom: 25px;
-  font-family: 'Norican', cursive;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Volkhov', serif;
 }
